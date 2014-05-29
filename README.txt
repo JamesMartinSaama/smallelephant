@@ -21,4 +21,6 @@
 
 Dear Reader
 
-Saama would like to introduce the Saama Git project Small Elephant. This is a micro sized business intelligence and Hadoop project. 
+Saama would like to introduce the Saama Git project Small Elephant. This is a micro sized business intelligence and Hadoop project.
+
+This is a public Github for our code, most code we build to do any of the processes of ETL, Hadoop, R statistics will be deposited here and completely free and open to the public.  
